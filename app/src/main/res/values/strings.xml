@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Login</string>
+    <string name="cuenta">Don\'t have an account?</string>
+    <string name="botonLogin">Login</string>
+    <string name="botonSignup">Sign Up!</string>
+    <string name="hintNombre">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintMail">Email</string>
+    <string name="title_activity_notelist">NotelistActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="logout">Log out</string>
+</resources>

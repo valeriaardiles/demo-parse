@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="hello_world">¡Hola mundo!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_register">Registro</string>
+    <string name="title_activity_login">Acceso</string>
+    <string name="cuenta">¿No tienes una cuenta?</string>
+    <string name="botonLogin">Entrar</string>
+    <string name="botonSignup">Regístrate</string>
+    <string name="hintNombre">Nombre de Usuario</string>
+    <string name="hintPassword">Contraseña</string>
+    <string name="hintMail">Correo</string>
+    <string name="logout">Cerrar Sesión</string>
+</resources>
